@@ -1,0 +1,16 @@
+# vscode 文件
+*.code-workspace
+.vscode
+
+# 测试文件
+*test*
+
+# 忽略压缩包
+*.tgz
+*.gz
+*.tar
+*.zip
+*.rar
+
+# 忽略 xm 项目
+xm/
